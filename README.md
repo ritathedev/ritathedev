@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa8bd,100:242acf&height=400&text=Hi!%20👋🏽%20I'm%20sRita...)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa8bd,100:242acf&height=400&text=Hi!%20👋🏽%20I'm%20Rita...&fontColor=ffffff&animation=twinkling)
 
 <!--
 **ritathedev/ritathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
