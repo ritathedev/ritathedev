@@ -46,13 +46,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="50" width="50" />
 
-</div>
+## My Current GitHub Stats: </br>
 
 [![Rita's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ritathedev&rank_icon=github&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=ritathedev&rank_icon=github&show_icons=true&include_all_commits=true&theme=nightowl)
 [![Rita's GitHub Stats - Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ritathedev&layout=donut&langs_count=4&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=ritathedev&layout=donut&langs_count=4&theme=nightowl)
 
----
-
 ![Snake animation](https://github.com/ritathedev/ritathedev/blob/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffa8bd,100:242acf&height=200&section=footer)
+
+</div></br>
