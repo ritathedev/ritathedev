@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffa8bd,100:242acf&height=400&text=Hi!%20👋🏽%20I'm%20Rita...&fontColor=ffffff&animation=twinkling)
 
+---
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13FBIII8M4IDDi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dancing-adventure-time-gunther-13FBIII8M4IDDi">via GIPHY</a></p>
+
 <!--
 **ritathedev/ritathedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
