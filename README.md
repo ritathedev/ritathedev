@@ -54,3 +54,5 @@
 ---
 
 ![Snake animation](https://github.com/ritathedev/ritathedev/blob/output/github-contribution-grid-snake.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffa8bd,100:242acf&height=200&section=footer)
